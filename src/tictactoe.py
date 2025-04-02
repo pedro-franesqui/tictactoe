@@ -96,6 +96,8 @@ def main():
         print("\nDraw!")
     else:
         print("\nThe winner is " + winner)
+    
+    input("\n\nPress any key to exit> ")
 
 if __name__ == "__main__":
     main()
